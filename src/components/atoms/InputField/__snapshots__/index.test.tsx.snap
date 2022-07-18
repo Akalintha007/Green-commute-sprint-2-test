@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms InputField snapshot 1`] = `
+<div
+  aria-owns={null}
+  className="MuiAutocomplete-root css-16awh2u-MuiAutocomplete-root"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+  onMouseDown={[Function]}
+>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-jfip22-MuiFormControl-root-MuiTextField-root"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiAutocomplete-inputRoot css-md26zr-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-activedescendant={null}
+        aria-autocomplete="list"
+        aria-expanded={false}
+        aria-invalid={false}
+        autoCapitalize="none"
+        autoComplete="off"
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiAutocomplete-input MuiAutocomplete-inputFocused css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="tags-filled"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        placeholder="Search by job location"
+        readOnly={false}
+        required={false}
+        role="combobox"
+        spellCheck="false"
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-hdw1oc"
+        >
+          <span
+            className="notranslate"
+          >
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

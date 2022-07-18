@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Job Description Test renders the job description 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root css-1telh9f-MuiPaper-root-MuiCard-root"
+>
+  <div
+    className="MuiCardHeader-root css-so20wf-MuiCardHeader-root"
+  >
+    <div
+      className="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-h5 MuiCardHeader-title css-1qvr50w-MuiTypography-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+          >
+            <img
+              alt="company_logo"
+              className="css-10kg2rx"
+              src="hp.svg"
+            />
+          </div>
+        </div>
+      </span>
+      <span
+        className="MuiTypography-root MuiTypography-body1 MuiCardHeader-subheader css-nrdprl-MuiTypography-root"
+      >
+        <div
+          className="MuiBox-root css-14dfvgf"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-subtitle1 makeStyles-title-1 css-10wpov9-MuiTypography-root"
+          >
+            Developer
+          </h6>
+          <span
+            className="MuiTypography-root MuiTypography-caption makeStyles-location-3 css-1sn4lm3-MuiTypography-root"
+          >
+            HP
+            <br />
+          </span>
+          <span
+            className="MuiTypography-root MuiTypography-caption makeStyles-location-3 css-1sn4lm3-MuiTypography-root"
+          >
+            Hyderabad
+          </span>
+          <br />
+          <span
+            className="MuiTypography-root MuiTypography-captionBold makeStyles-location-3 css-37jdci-MuiTypography-root"
+          >
+            12min ago
+          </span>
+        </div>
+      </span>
+    </div>
+    <div
+      className="MuiCardHeader-action css-sgoict-MuiCardHeader-action"
+    >
+      <div
+        className="css-1dlh1z8"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1oqkdeg-MuiSvgIcon-root"
+          data-testid="MoreHorizIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiCardActions-root MuiCardActions-spacing css-vb1tq8-MuiCardActions-root"
+  >
+    <button
+      className="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButtonBase-root  css-1k23hlb-MuiButtonBase-root-MuiButton-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-captionBold css-37jdci-MuiTypography-root"
+      >
+        Save
+      </span>
+    </button>
+    <button
+      className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButtonBase-root  css-11qr2p8-MuiButtonBase-root-MuiButton-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="submit"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-captionBold css-37jdci-MuiTypography-root"
+      >
+        Apply
+      </span>
+    </button>
+  </div>
+</div>
+`;
