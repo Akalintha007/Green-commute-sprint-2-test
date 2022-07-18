@@ -1,199 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/InputField/index.test.tsx">
-    <testCase name="Atoms InputField snapshot" duration="315"/>
-    <testCase name="Atoms renders input field" duration="320"/>
-    <testCase name="Atoms renders chips" duration="40"/>
-    <testCase name="Atoms renders delete button on chip" duration="146"/>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/JobDetailsCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="183"/>
+    <testCase name="CabCard Text should render correctly" duration="102"/>
+    <testCase name="CabCard Text should render correctly" duration="72"/>
+    <testCase name="CabCard Button element rendered correctly" duration="42"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/CommonRoutes/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="253"/>
-    <testCase name="CabCard Text should render correctly" duration="110"/>
-    <testCase name="CabCard Text should render correctly" duration="75"/>
-    <testCase name="CabCard Text should render correctly" duration="47"/>
+    <testCase name="CabCard renders correctly" duration="182"/>
+    <testCase name="CabCard Text should render correctly" duration="131"/>
+    <testCase name="CabCard Text should render correctly" duration="64"/>
+    <testCase name="CabCard Text should render correctly" duration="89"/>
   </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/templates/JobDescriptionTemplate/index.test.tsx">
-    <testCase name="JobDescriptionTemplate renders correctly" duration="496"/>
-    <testCase name="JobDescriptionTemplate Text should render correctly" duration="102"/>
-    <testCase name="JobDescriptionTemplate Text should render correctly" duration="55"/>
-    <testCase name="JobDescriptionTemplate Number of Icons should be 2" duration="85"/>
-    <testCase name="JobDescriptionTemplate Button element rendered correctly" duration="85"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/JobDetailsCard/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="239"/>
-    <testCase name="CabCard Text should render correctly" duration="126"/>
-    <testCase name="CabCard Text should render correctly" duration="62"/>
-    <testCase name="CabCard Button element rendered correctly" duration="69"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/CabCard/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="270"/>
-    <testCase name="CabCard Text should render correctly" duration="136"/>
-    <testCase name="CabCard Element for ola should be rendered" duration="55"/>
-    <testCase name="CabCard Element rapido should be rendered" duration="33"/>
-    <testCase name="CabCard Element uber should be rendered" duration="58"/>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/InputField/index.test.tsx">
+    <testCase name="Atoms InputField snapshot" duration="334"/>
+    <testCase name="Atoms renders input field" duration="553"/>
+    <testCase name="Atoms renders chips" duration="75"/>
+    <testCase name="Atoms renders delete button on chip" duration="180"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/SideMenu/index.test.tsx">
-    <testCase name="SideMenu Text should render correctly" duration="450"/>
-    <testCase name="SideMenu Text should render correctly" duration="92"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="105"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="83"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="91"/>
+    <testCase name="SideMenu Text should render correctly" duration="291"/>
+    <testCase name="SideMenu Text should render correctly" duration="98"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="81"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="99"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="78"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="154"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="109"/>
     <testCase name="SideMenu MenuItem rendered correctly" duration="73"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="74"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="70"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="51"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="52"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="103"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="83"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/CabCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="301"/>
+    <testCase name="CabCard Text should render correctly" duration="224"/>
+    <testCase name="CabCard Element for ola should be rendered" duration="60"/>
+    <testCase name="CabCard Element rapido should be rendered" duration="53"/>
+    <testCase name="CabCard Element uber should be rendered" duration="63"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/templates/JobDescriptionTemplate/index.test.tsx">
+    <testCase name="JobDescriptionTemplate renders correctly" duration="390"/>
+    <testCase name="JobDescriptionTemplate Text should render correctly" duration="243"/>
+    <testCase name="JobDescriptionTemplate Text should render correctly" duration="90"/>
+    <testCase name="JobDescriptionTemplate Number of Icons should be 2" duration="95"/>
+    <testCase name="JobDescriptionTemplate Button element rendered correctly" duration="98"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/templates/LandingPageTemplate/index.test.tsx">
-    <testCase name="LandingPageTemplate LandingPageTemplate snapshot" duration="609"/>
-    <testCase name="LandingPageTemplate Renders logo correctly" duration="181"/>
-    <testCase name="LandingPageTemplate Renders illustration correctly" duration="110"/>
-    <testCase name="LandingPageTemplate Renders text correctly" duration="79"/>
-    <testCase name="LandingPageTemplate Renders input correctly" duration="78"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/FilterMenu/index.test.tsx">
-    <testCase name="Filter menu organism renders all parts of filter menu" duration="1259"/>
+    <testCase name="LandingPageTemplate LandingPageTemplate snapshot" duration="527"/>
+    <testCase name="LandingPageTemplate Renders logo correctly" duration="207"/>
+    <testCase name="LandingPageTemplate Renders illustration correctly" duration="112"/>
+    <testCase name="LandingPageTemplate Renders text correctly" duration="107"/>
+    <testCase name="LandingPageTemplate Renders input correctly" duration="82"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/pages/LandingPage/index.test.tsx">
-    <testCase name="LandingPage Landing Page snapshot" duration="595"/>
-    <testCase name="LandingPage Renders logo correctly" duration="197"/>
-    <testCase name="LandingPage Renders illustration correctly" duration="137"/>
-    <testCase name="LandingPage Renders text correctly" duration="117"/>
-    <testCase name="LandingPage Renders textbox correctly" duration="159"/>
-    <testCase name="LandingPage Renders button correctly" duration="297"/>
+    <testCase name="LandingPage Landing Page snapshot" duration="625"/>
+    <testCase name="LandingPage Renders logo correctly" duration="180"/>
+    <testCase name="LandingPage Renders illustration correctly" duration="108"/>
+    <testCase name="LandingPage Renders text correctly" duration="98"/>
+    <testCase name="LandingPage Renders textbox correctly" duration="79"/>
+    <testCase name="LandingPage Renders button correctly" duration="327"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/FilterMenu/index.test.tsx">
+    <testCase name="Filter menu organism renders all parts of filter menu" duration="1293"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/pages/SavedJobs/index.test.tsx">
-    <testCase name="Saved Jobs Page Saved Jobs Page snapshot" duration="554"/>
-    <testCase name="Saved Jobs Page Renders banner correctly" duration="577"/>
-    <testCase name="Saved Jobs Page Renders header images correctly" duration="152"/>
-    <testCase name="Saved Jobs Page Renders avatar correctly" duration="134"/>
-    <testCase name="Saved Jobs Page Renders textbox correctly" duration="294"/>
-    <testCase name="Saved Jobs Page Renders all menu items" duration="485"/>
+    <testCase name="Saved Jobs Page Saved Jobs Page snapshot" duration="489"/>
+    <testCase name="Saved Jobs Page Renders banner correctly" duration="441"/>
+    <testCase name="Saved Jobs Page Renders header images correctly" duration="141"/>
+    <testCase name="Saved Jobs Page Renders avatar correctly" duration="142"/>
+    <testCase name="Saved Jobs Page Renders textbox correctly" duration="239"/>
+    <testCase name="Saved Jobs Page Renders all menu items" duration="459"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/pages/JobDescriptionView/index.test.tsx">
-    <testCase name="Home Page test render the components" duration="2820"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/MainCard/index.test.tsx">
-    <testCase name="Main Card Test renders the main card" duration="328"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/RadioButton/index.test.tsx">
-    <testCase name="Atoms renders radio button" duration="205"/>
-    <testCase name="Atoms renders snapshot of radio button" duration="26"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/AcknowledgementCard/index.test.tsx">
-    <testCase name="AcknowledgementCard Text should render correctly" duration="442"/>
-    <testCase name="AcknowledgementCard Number of Icons should be 2" duration="60"/>
-    <testCase name="AcknowledgementCard Button element rendered correctly" duration="38"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Checkbox/index.test.tsx">
-    <testCase name="Atoms renders input field" duration="389"/>
+    <testCase name="Home Page test render the components" duration="2960"/>
+    <testCase name="Home Page test Testing the description view template" duration="228"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/JobList/index.test.tsx">
-    <testCase name="Organisms renders Job list" duration="791"/>
-    <testCase name="renders correctly when filter has no items" duration="27"/>
-    <testCase name="renders correctly when filter has items" duration="7"/>
+    <testCase name="Organisms renders Job list" duration="518"/>
+    <testCase name="renders correctly when filter has no items" duration="26"/>
+    <testCase name="renders correctly when filter has items" duration="12"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/JobSearch/index.test.tsx">
-    <testCase name="Search Bar render whole organism" duration="311"/>
-    <testCase name="Search Bar render skill search field" duration="127"/>
-    <testCase name="Search Bar render location search field " duration="54"/>
-    <testCase name="Search Bar render search button icon" duration="88"/>
+    <testCase name="Search Bar render whole organism" duration="292"/>
+    <testCase name="Search Bar render skill search field" duration="63"/>
+    <testCase name="Search Bar render location search field " duration="81"/>
+    <testCase name="Search Bar render search button icon" duration="65"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/AcknowledgementCard/index.test.tsx">
+    <testCase name="AcknowledgementCard Text should render correctly" duration="494"/>
+    <testCase name="AcknowledgementCard Number of Icons should be 2" duration="49"/>
+    <testCase name="AcknowledgementCard Button element rendered correctly" duration="48"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/FileUploadCard/index.test.tsx">
+    <testCase name="FileUploadCard Text should render correctly" duration="402"/>
+    <testCase name="FileUploadCard Number of Icons should be 2" duration="44"/>
+    <testCase name="FileUploadCard Button element rendered correctly" duration="54"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/MetroCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="133"/>
+    <testCase name="CabCard Text should render correctly" duration="82"/>
+    <testCase name="CabCard Number of Icons should be 2" duration="45"/>
+    <testCase name="CabCard Button element rendered correctly" duration="29"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/App.test.tsx">
-    <testCase name="renders learn react link" duration="857"/>
+    <testCase name="renders learn react link" duration="642"/>
   </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/ChipItem/index.test.tsx">
-    <testCase name="Molecules renders green chip" duration="253"/>
-    <testCase name="Molecules renders white chip" duration="182"/>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/LocationField/index.test.tsx">
+    <testCase name="Location Field Molecule Random location" duration="144"/>
+    <testCase name="Location Field Snapshot renders location field correctly" duration="56"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Checkbox/index.test.tsx">
+    <testCase name="Atoms renders input field" duration="338"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/MenuItem/index.test.tsx">
-    <testCase name="Molecules renders filter button" duration="345"/>
-    <testCase name="Molecules renders selected filterbutton" duration="77"/>
+    <testCase name="Molecules renders filter button" duration="216"/>
+    <testCase name="Molecules renders selected filterbutton" duration="53"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/pages/HomePage/index.test.tsx">
-    <testCase name="Home Page test Testing the home template" duration="943"/>
+    <testCase name="Home Page test Testing the home template" duration="1371"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/ChipItem/index.test.tsx">
+    <testCase name="Molecules renders green chip" duration="145"/>
+    <testCase name="Molecules renders white chip" duration="88"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/templates/HomePage/index.test.tsx">
+    <testCase name="HomePage template renders Home page" duration="283"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/IconButton/index.test.tsx">
+    <testCase name="Molecules renders filter button" duration="188"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/AQILocation/index.test.tsx">
+    <testCase name="AQIIndexGroup renders correctly" duration="48"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/IllustrationData/index.test.tsx">
+    <testCase name="IllustrationData renders correctly" duration="48"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/MainCard/index.test.tsx">
+    <testCase name="Main Card Test renders the main card" duration="235"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/RadioButton/index.test.tsx">
+    <testCase name="Atoms renders radio button" duration="113"/>
+    <testCase name="Atoms renders snapshot of radio button" duration="29"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/Header/index.test.tsx">
+    <testCase name="Header test renders the app header correctly" duration="149"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Button/index.test.tsx">
+    <testCase name="it renders Button" duration="137"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/AQI/index.test.tsx">
+    <testCase name="AQIIndex renders correctly" duration="44"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/AQIGroup/index.test.tsx">
+    <testCase name="AQIIndexLocation renders correctly" duration="63"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/TextField/index.test.tsx">
+    <testCase name="Single Input Textfield renders correctly" duration="132"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Typography/index.test.tsx">
+    <testCase name="Typography Render h1" duration="38"/>
+    <testCase name="Typography Render h2" duration="6"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/ListItem/index.test.tsx">
     <testCase name="List Item molecule Ola list item molecule" duration="104"/>
-    <testCase name="List Item molecule Rapido list item molecule with approx and fare" duration="26"/>
-    <testCase name="List Item molecule Uber list item molecule logo rendering test" duration="30"/>
-    <testCase name="List Item Snapshot renders list item correctly" duration="31"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/MetroCard/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="89"/>
-    <testCase name="CabCard Text should render correctly" duration="68"/>
-    <testCase name="CabCard Number of Icons should be 2" duration="28"/>
-    <testCase name="CabCard Button element rendered correctly" duration="30"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/FindCard/index.test.tsx">
-    <testCase name="Job card test renders the app header correctly" duration="119"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/templates/HomePage/index.test.tsx">
-    <testCase name="HomePage template renders Home page" duration="348"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/FileUploadCard/index.test.tsx">
-    <testCase name="FileUploadCard Text should render correctly" duration="394"/>
-    <testCase name="FileUploadCard Number of Icons should be 2" duration="48"/>
-    <testCase name="FileUploadCard Button element rendered correctly" duration="51"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/AQI/index.test.tsx">
-    <testCase name="AQIIndex renders correctly" duration="71"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/LocationField/index.test.tsx">
-    <testCase name="Location Field Molecule Random location" duration="147"/>
-    <testCase name="Location Field Snapshot renders location field correctly" duration="32"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Button/index.test.tsx">
-    <testCase name="it renders Button" duration="148"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/IconButton/index.test.tsx">
-    <testCase name="Molecules renders filter button" duration="289"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/AQIGroup/index.test.tsx">
-    <testCase name="AQIIndexLocation renders correctly" duration="70"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/IconSVG/index.test.tsx">
-    <testCase name="Atoms renders svg icon" duration="55"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Avatar/index.test.tsx">
-    <testCase name="Avatar renders correctly" duration="36"/>
+    <testCase name="List Item molecule Rapido list item molecule with approx and fare" duration="25"/>
+    <testCase name="List Item molecule Uber list item molecule logo rendering test" duration="18"/>
+    <testCase name="List Item Snapshot renders list item correctly" duration="29"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/ProgressItem/index.test.tsx">
-    <testCase name="Progress Item Grid container" duration="57"/>
-    <testCase name="Progress Item Test using test-id" duration="29"/>
+    <testCase name="Progress Item Grid container" duration="56"/>
+    <testCase name="Progress Item Test using test-id" duration="11"/>
+  </file>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Avatar/index.test.tsx">
+    <testCase name="Avatar renders correctly" duration="35"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Illustration/index.test.tsx">
-    <testCase name="Atoms renders Illustration" duration="46"/>
+    <testCase name="Atoms renders Illustration" duration="23"/>
   </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/Header/index.test.tsx">
-    <testCase name="Header test renders the app header correctly" duration="200"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Typography/index.test.tsx">
-    <testCase name="Typography Render h1" duration="80"/>
-    <testCase name="Typography Render h2" duration="7"/>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/FindCard/index.test.tsx">
+    <testCase name="Job card test renders the app header correctly" duration="80"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/FilterButton/index.test.tsx">
-    <testCase name="Filter Button renders correctly" duration="73"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/JobDesCard/index.test.tsx">
-    <testCase name="Job Description Test renders the job description" duration="114"/>
+    <testCase name="Filter Button renders correctly" duration="54"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/TabPanel/index.test.tsx">
-    <testCase name="Tab Panel Test renders the tab panel" duration="61"/>
+    <testCase name="Tab Panel Test renders the tab panel" duration="60"/>
   </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/IllustrationData/index.test.tsx">
-    <testCase name="IllustrationData renders correctly" duration="60"/>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/organisms/JobDesCard/index.test.tsx">
+    <testCase name="Job Description Test renders the job description" duration="131"/>
   </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/TextField/index.test.tsx">
-    <testCase name="Single Input Textfield renders correctly" duration="185"/>
-  </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Logo/index.test.tsx">
-    <testCase name="Atoms renders logo" duration="17"/>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/IconSVG/index.test.tsx">
+    <testCase name="Atoms renders svg icon" duration="40"/>
   </file>
   <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Icon/index.test.tsx">
-    <testCase name="Atoms renders png icon" duration="26"/>
+    <testCase name="Atoms renders png icon" duration="20"/>
   </file>
-  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/molecules/AQILocation/index.test.tsx">
-    <testCase name="AQIIndexGroup renders correctly" duration="35"/>
+  <file path="/home/asishk/Downloads/bootcamp_44_greencommute-NewChanges/green-commute/src/components/atoms/Logo/index.test.tsx">
+    <testCase name="Atoms renders logo" duration="18"/>
   </file>
 </testExecutions>

@@ -12,4 +12,9 @@ describe('Home Page test', () => {
     expect(screen.getAllByRole('menuitem')).toHaveLength(8);
     expect(screen.getByRole('searchbox')).toBeInTheDocument();
   });
+  test('Testing the description view template', () => {
+    render(<BrowserRouter><JobDescriptionView/></BrowserRouter>);
+    expect(screen.getByTestId('home-template')).toBeInTheDocument();
+    
+})
 });
